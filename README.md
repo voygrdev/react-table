@@ -26,10 +26,6 @@ npm install
 npm start
 ```
 
-## Example
-
-https://table-react-component.vercel.app/
-
 ## Usage
 
 ```js
