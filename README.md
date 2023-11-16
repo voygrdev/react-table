@@ -18,9 +18,6 @@
 [bundlephobia-url]: https://bundlephobia.com/result?p=rc-table
 [bundlephobia-image]: https://badgen.net/bundlephobia/minzip/rc-table
 
-## install
-
-[![rc-table](https://nodei.co/npm/rc-table.png)](https://npmjs.org/package/rc-table)
 
 ## Development
 
